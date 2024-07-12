@@ -10,7 +10,8 @@
 
 /* Color de fondo negro para bg-element */
 .bg-element {
-  background-color: black;
+  background-color: rgb(62, 59, 101);
+
 }
 
 /* Imagen de fondo, ajustada a su tamaño y posición en bg-image */
@@ -48,7 +49,7 @@ img.card-img-top {
 
 /* Define un fondo negro para item-portfolio */
 .item-portfolio {
-  background-color: black;
+  background-color: rgba(62, 59, 101, 0.881);
 }
 
 /* Limita la altura máxima de item-works */
@@ -66,4 +67,8 @@ img.card-img-top {
 .item-footer {
   width: 100%;
   max-height: 10em;
+}
+
+footer {
+  background-color: rgba(62, 59, 101, 0.579);
 }
